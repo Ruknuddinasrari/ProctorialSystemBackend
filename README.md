@@ -1,5 +1,5 @@
 # ProctorialSystemBackend
-Server-side code for Aftaab99/ProctorialSystemApp
+Server-side code for ProctorialSystemApp
 
 
 ## Running locally
